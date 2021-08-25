@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Items">
+        <file>Item/CCMaY.jpg</file>
+        <file>Item/skybox_negx.tga</file>
+        <file>Item/skybox_negy.tga</file>
+        <file>Item/skybox_negz.tga</file>
+        <file>Item/skybox_posx.tga</file>
+        <file>Item/skybox_posy.tga</file>
+        <file>Item/skybox_posz.tga</file>
+        <file>Item/teaPort.mtl</file>
+        <file>Item/teaPort.obj</file>
+        <file>Item/text.mtl</file>
+        <file>Item/text.obj</file>
+        <file>Item/IS4.mtl</file>
+        <file>Item/IS4.obj</file>
+    </qresource>
+</RCC>

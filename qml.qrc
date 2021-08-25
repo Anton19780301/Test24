@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Mega3DScene.qml</file>
+        <file>Tank01.qml</file>
+        <file>Text01.qml</file>
+        <file>Torus01.qml</file>
+    </qresource>
+</RCC>
